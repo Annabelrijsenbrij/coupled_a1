@@ -9,6 +9,7 @@ from scipy import integrate
 #ET - evapotranspiration
 #Lt - uotflow
 ba = 28355      #base area
+bb = 1
 ta = 9100       #top area
 sw = 38         #slope width
 h = 12          #slope height
